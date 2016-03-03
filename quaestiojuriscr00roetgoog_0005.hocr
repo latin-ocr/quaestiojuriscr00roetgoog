@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestiojuriscr00roetgoog_0005.png"; bbox 0 0 3052 4887; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 453 1779 2453 1910">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 453 1779 2453 1910">
+     <span class='ocr_line' id='line_1_1' title="bbox 453 1779 2453 1910; baseline 0.001 -16"><span class='ocrx_word' id='word_1_1' title='bbox 453 1820 1050 1894; x_wconf 80' lang='lat' dir='ltr'>AVUNCULO</span> <span class='ocrx_word' id='word_1_2' title='bbox 1114 1820 1574 1910; x_wconf 78' lang='lat' dir='ltr'>OPTIMO,</span> <span class='ocrx_word' id='word_1_3' title='bbox 1632 1779 2453 1896; x_wconf 68' lang='lat' dir='ltr'>DILEcTisSIMo</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 626 2135 2163 2379">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 626 2135 2163 2379">
+     <span class='ocr_line' id='line_1_2' title="bbox 626 2135 2163 2379; baseline -0.001 -123.834"><span class='ocrx_word' id='word_1_4' title='bbox 626 2135 1201 2369; x_wconf 55' lang='grc' dir='ltr'>1ΜΕΙΒῘΑῊΒ</span> <span class='ocrx_word' id='word_1_5' title='bbox 1270 2135 1651 2255; x_wconf 62' lang='grc' dir='ltr'>ΑῠῠῑΙῗῠ</span> <span class='ocrx_word' id='word_1_6' title='bbox 1714 2135 2163 2379; x_wconf 44' lang='lat' dir='ltr'>lautum</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 872 2323 2546 2377">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 872 2323 2546 2377">
+     <span class='ocr_line' id='line_1_3' title="bbox 872 2323 2546 2377; baseline -0.002 -7.863"><span class='ocrx_word' id='word_1_7' title='bbox 872 2326 1080 2369; x_wconf 82' lang='lat' dir='ltr'>GALNI</span> <span class='ocrx_word' id='word_1_8' title='bbox 1081 2326 1340 2370; x_wconf 78' lang='lat' dir='ltr'>IGNIGENS</span> <span class='ocrx_word' id='word_1_9' title='bbox 1269 2326 1392 2369; x_wconf 88' lang='grc'>818</span> <span class='ocrx_word' id='word_1_10' title='bbox 1435 2326 1571 2369; x_wconf 82' lang='lat' dir='ltr'>DIRE</span> <span class='ocrx_word' id='word_1_11' title='bbox 1573 2326 1714 2368; x_wconf 79' lang='lat' dir='ltr'>C&#39;rOR</span> <span class='ocrx_word' id='word_1_12' title='bbox 1801 2326 1994 2377; x_wconf 80' lang='lat' dir='ltr'><strong>EQUI&#39;I&#39;I</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 2034 2325 2245 2376; x_wconf 77' lang='lat' dir='ltr'><strong>AQmLA</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 2246 2323 2546 2366; x_wconf 77' lang='grc' dir='ltr'><strong>ΕΒΠΒΒΑΕ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2157 3717 2489 3774">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2157 3717 2489 3774">
+     <span class='ocr_line' id='line_1_4' title="bbox 2157 3717 2489 3774; baseline -0.006 0"><span class='ocrx_word' id='word_1_15' title='bbox 2157 3718 2299 3774; x_wconf 80' lang='lat' dir='ltr'>NEC</span> <span class='ocrx_word' id='word_1_16' title='bbox 2337 3717 2489 3773; x_wconf 87' lang='lat' dir='ltr'>NON</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
